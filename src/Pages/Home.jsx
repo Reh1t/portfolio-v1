@@ -77,8 +77,8 @@ const SocialLink = memo(({ icon: Icon, link }) => (
 const TYPING_SPEED = 100;
 const ERASING_SPEED = 50;
 const PAUSE_DURATION = 2000;
-const WORDS = ["Network & Telecom Student", "Tech Enthusiast"];
-const TECH_STACK = ["React", "Javascript", "Node.js", "Tailwind"];
+const WORDS = ["UI/UX Designer","Simple Backend Developer","Computer Scientist", "Tech Enthusiast", ];
+const TECH_STACK = ["React","Next.js", "Typescript","Javascript","Firebase", "Node.js", "Tailwind"];
 const SOCIAL_LINKS = [
   { icon: Github, link: "https://github.com/reh1t" },
   { icon: Linkedin, link: "https://www.linkedin.com/in/rehan-tariq-69734a222/" },
